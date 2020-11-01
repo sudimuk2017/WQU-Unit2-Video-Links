@@ -1,5 +1,6 @@
-# WQU-DS-Unit-2
-This repo contains all the files material releated to WorldQuant University's Data Science Summer 2020 Session Unit 2: Machine Learning and Statistical Analysis
+# WQU-Unit2 Vidio Links
+****************************************************
+This repo contains all the files material releated to WorldQuant University's Data Science Session Unit 2: Machine Learning and Statistical Analysis
 
 ## Syllabus
 
@@ -169,9 +170,4 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [8.2.4 Bayesian Optimization](https://youtu.be/GIQL38tkyRs)
 - [8.3.1 End of Course Material](https://youtu.be/htdGrsIMZkg)
 
-### Office Hours
-- [LIVE Streaming Office Hours](https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live)
-- [LIVE Streaming Office Hours](https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live)
-- [LIVE Streaming Office Hours](https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live)
-- [LIVE Streaming Office Hours](https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live)
-- [OFFICE HOURS PLAYLIST](https://www.youtube.com/playlist?list=PLeDYvCW3J3jmrHB7ESo8hZ5XqlYdB3SnV)
+
