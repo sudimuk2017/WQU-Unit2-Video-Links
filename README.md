@@ -173,5 +173,5 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [8.2.4 Bayesian Optimization](https://youtu.be/GIQL38tkyRs)
 - [8.3.1 End of Course Material](https://youtu.be/htdGrsIMZkg)
 
-**Just for reference and I hope you can star⭐ me.**
+
 
