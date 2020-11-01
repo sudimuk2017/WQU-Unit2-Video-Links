@@ -1,4 +1,4 @@
-# WQU-Unit2 Vidio Links
+# WQU-Unit2 Videos Links
 ****************************************************
 This repo contains all the files material releated to WorldQuant University's Data Science Session Unit 2: Machine Learning and Statistical Analysis
 
@@ -15,7 +15,8 @@ This repo contains all the files material releated to WorldQuant University's Da
 
 
 ## Chapter Content Videos
-### Ch1. Introduction to machine learning and Scikit-learn API
+
+### Introduction to machine learning and Scikit-learn API
 
 - [Introduction to Machine Learning](https://youtu.be/9J6FNvil6Gw)
 - [1.2.1 Intro to Scikit-learn](https://youtu.be/ecryKgFv5MA)
@@ -28,7 +29,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [1.2.8 Exercise Majority Classifier](https://youtu.be/SGLjDeJqDb0)
 - [1.3.1 Persisting Your Model](https://youtu.be/V9Pm_EZvABA)
 - [1.3.2 Common Mistakes](https://youtu.be/YZQNIUIAi3A)
-### Ch2. Regression, classification, & model selection
+### Regression, classification, & model selection
 
 - [2.1.1 Regression Metrics](https://youtu.be/wlMrMvphMuw)
 - [2.2.1 Linear Regression Intro](https://youtu.be/L1h6cIG8XcA)
@@ -50,7 +51,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [2.6.2 GridsearchCV and Pipelines 2](https://youtu.be/mqnG1yANXvo)
 - [2.6.3 RandomizedSearchCV](https://youtu.be/BXzf0gJuV4w)
 
-### Ch3 Feature Enginerring & KNN
+### Feature Enginerring & KNN
 
 - [3.1.1 Feature Engineering and Extraction](https://youtu.be/kHDRaKe2B5A)
 - [3.1.2 Feature Transformation](https://youtu.be/YAJsJNS3DAA)
@@ -77,7 +78,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [3.4.11 Exercise II](https://youtu.be/MkpFJkSrC2o)
 - [3.4.12 Exercise III and IV](https://youtu.be/Uw1_iZgihC0)
 
-### Ch4 Decision Trees & Gradient Boosting
+### Decision Trees & Gradient Boosting
 - [4.1.1 Intro to Decision Trees](https://youtu.be/4cIr8W9tXD8)
 - [4.1.2 Tree Error Metrics](https://youtu.be/Pv8bnN3E4xA)
 - [4.1.3 Trees for Regression](https://youtu.be/LvUazyMSRFM)
@@ -91,7 +92,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [4.1.11 Feature Importance](https://youtu.be/WDLvgw-Znmg)
 - [4.1.12 Exercises](https://youtu.be/7q3pk2VcDFQ)
 
-### Ch5 SVM & Clustering
+### SVM & Clustering
 - [5.1.1 Intro to SVM](https://youtu.be/GxSSq1B-BHg)
 - [5.1.2 Largest Margin Classifier](https://youtu.be/EK-69gK8y9E)
 - [5.1.3 Soft Margin Classifier](https://youtu.be/QT-Flust1Hc)
@@ -113,7 +114,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [5.2.5 Gaussian Mixture Models](https://youtu.be/WwDiKfHW52U)
 - [5.2.6 Choosing Cluster Based on Silhouette](https://youtu.be/Gj4HHh4dDEk)
 - [5.2.7 GMM Choosing Number of Components](https://youtu.be/QO3F4lBs4m4)
-### Ch6 Time Series Analysis & Dimensionality Reduction
+### Time Series Analysis & Dimensionality Reduction
 - [	6.1.1 Intro to Time Series](https://youtu.be/BvDcWoLnWFk)
 - [	6.1.2 Crossvalidation in Time Series](https://youtu.be/ZOJAof-3YYA)
 - [	6.1.3 Stationary Signal](https://youtu.be/WytJdsQBeos)
@@ -140,7 +141,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [6.2.12 NMF Exercise Part II](https://youtu.be/PQt9XPS_bT0)
 - [6.2.13 Variants of PCA](https://youtu.be/0KdHFPXsonE)
 
-### Ch7 Anomaly Detection
+### Anomaly Detection
 - [7.1.1 Intro to Anomaly Detection](https://youtu.be/KuFUQ7wWhsY)
 - [7.1.2 One class SVM](https://youtu.be/2l0TD7gCzvQ)
 - [7.1.3 Isolation Forest](https://youtu.be/xIAwOj_xh9s)
@@ -154,7 +155,7 @@ This repo contains all the files material releated to WorldQuant University's Da
 - [7.1.11 Using External Features Initial Model](https://youtu.be/_SvveHx_Nfk)
 - [7.1.12 Using External Features Tuning the Model](https://youtu.be/2Z5SQsx4LFE)
 - [7.1.13 Packaging the Time Series Anomaly Detector](https://youtu.be/hTWHZTTbmJk)
-### Ch8 Model Deployment
+### Model Deployment
 - [8.1.1 Model Considerations](https://youtu.be/SFFFnqugdOQ)
 - [8.1.2 Model Development](https://youtu.be/DrClE-USVDg)
 - [8.1.3 Flask App Local Development](https://youtu.be/chRA6Lngw-A)
