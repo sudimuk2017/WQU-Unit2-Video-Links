@@ -2,7 +2,7 @@
 ****************************************************
 This repo contains all the files material releated to WorldQuant University's Data Science Session Unit 2: Machine Learning and Statistical Analysis
 
-dhadh dqudha diadjwod djowdqwow ijdqowjdqw diwjqd
+dhadh dqudha diadjwod djowdqwow ijdqowjdqw diwjq
 
 **I hope the repo will help to learn ML, star ⭐ me.**
 
