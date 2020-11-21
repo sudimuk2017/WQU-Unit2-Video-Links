@@ -1,7 +1,7 @@
 # WQU-Unit2 Video Links
 ****************************************************
 
-hewd hjadd hdjsd jhdgwd hjdg hdajd hjdgadg ghfvs 
+hewd hjadd hdjsd jhdgwd hjdg hdajd hjdgadghfvs 
 
 This repo contains all the files material releated to WorldQuant University's Data Science Session Unit 2: Machine Learning and Statistical Analysis
 
